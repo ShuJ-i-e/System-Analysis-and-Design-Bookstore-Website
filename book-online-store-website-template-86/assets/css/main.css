@@ -3312,3 +3312,23 @@ input, select, textarea {
 			}
 
 		}
+
+.search-container {
+	float: right;
+}
+
+.search-container button {
+	float: right;
+	padding: 6px 10px;
+	margin-top: -45px;
+	margin-right: 0px;
+	background: #ddd;
+	font-size: 17px;
+	border: none;
+	cursor: pointer;
+	height:2.5rem;
+  }
+
+.search-container button:hover {
+	background: #ccc;
+  }
